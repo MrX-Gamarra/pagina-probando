@@ -1,4 +1,4 @@
-nombre = "juana"
+nombre = "juanaaaaaaaaa"
 apellido = "Gamarra"
 sal = ("hola "+ nombre + " "+apellido+ " como estas")
 
