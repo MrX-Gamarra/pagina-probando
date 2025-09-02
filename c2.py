@@ -1,2 +1,0 @@
-n = "jorgigggfshfghsdfgsdfgsdfgta"
-print(n)
