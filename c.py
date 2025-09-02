@@ -1,3 +1,2 @@
-nombre = "Alinaarraaasdfasdfasdfasdfasdfaa"
-
-
+nombre = "Alina Gamarraaaa"
+apellido = "Gamarraaaaaaaaa"
