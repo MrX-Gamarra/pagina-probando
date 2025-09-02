@@ -1,7 +1,8 @@
 nombre = "Alina Gamarraaaa"
-apellido = "Gamarra"
+apellido = "Gamarraaaaaaaaa"
 sal = ("hola "+ nombre + " "+apellido+ " como estas")
 
 print (sal)
+
 
 
